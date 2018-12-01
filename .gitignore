@@ -1,0 +1,18 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+**/node_modules/
+**/bower_components/
+**/coverage/
+**/node/
+**/.sass-cache/
+**/.idea/
+**/.tmp/
+**/dist/
+**/.idea
+**/npm-debug.log
+**/.DS_Store
+**/.vscode/
+*.iml
+target/
+
+**/*.log
+**/package-lock.json

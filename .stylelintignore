@@ -1,0 +1,6 @@
+node_modules/**/*.css
+node_modules/**/*.scss
+node_modules/**/*.less
+node_modules/**/*.styl
+assets/**/*.css
+*.min.css
